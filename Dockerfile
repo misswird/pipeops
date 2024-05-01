@@ -1,1 +1,1 @@
-FROM ghcr.io/aslilisr/zebuar:mian
+FROM ghcr.io/eooce/pipope:latest
