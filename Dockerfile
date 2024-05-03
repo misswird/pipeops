@@ -1,1 +1,1 @@
-FROM ghcr.io/eooce/pipope:latest
+FROM ghcr.io/misswird/nodejs-argo:mian
